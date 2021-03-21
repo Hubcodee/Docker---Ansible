@@ -1,0 +1,1 @@
+192.168.0.126 ansible_user=root ansible_ssh_pass=arth ansible_connection=ssh
